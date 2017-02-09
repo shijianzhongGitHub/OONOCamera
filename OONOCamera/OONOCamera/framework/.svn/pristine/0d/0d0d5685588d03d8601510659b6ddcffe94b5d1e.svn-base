@@ -1,0 +1,119 @@
+{
+    "items":
+    {
+        "vecItems": [
+                     {
+                     "defaultValue": "0,0,0",
+                     "value": "0,0,0",
+                     "effectKey": "LightZ_HSL",
+                     "key": "Hue_Red",
+                     "type": "VecItem",
+                     "noEffectValue": "0,0,0"
+                     },
+                     {
+                     "defaultValue": "0,0,0",
+                     "value": "0,0,0",
+                     "effectKey": "LightZ_HSL",
+                     "key": "Hue_Orange",
+                     "type": "VecItem",
+                     "noEffectValue": "0,0,0"
+                     },
+                     {
+                     "defaultValue": "0,0,0",
+                     "value": "0,0,0",
+                     "effectKey": "LightZ_HSL",
+                     "key": "Hue_Yellow",
+                     "type": "VecItem",
+                     "noEffectValue": "0,0,0"
+                     },
+                     {
+                     "defaultValue": "0,0,0",
+                     "value": "0,0,0",
+                     "effectKey": "LightZ_HSL",
+                     "key": "Hue_Green",
+                     "type": "VecItem",
+                     "noEffectValue": "0,0,0"
+                     },
+                     {
+                     "defaultValue": "0,0,0",
+                     "value": "0,0,0",
+                     "effectKey": "LightZ_HSL",
+                     "key": "Hue_Cyan",
+                     "type": "VecItem",
+                     "noEffectValue": "0,0,0"
+                     },
+                     {
+                     "defaultValue": "0,0,0",
+                     "value": "0,0,0",
+                     "effectKey": "LightZ_HSL",
+                     "key": "Hue_Blue",
+                     "type": "VecItem",
+                     "noEffectValue": "0,0,0"
+                     },
+                     {
+                     "defaultValue": "0,0,0",
+                     "value": "0,0,0",
+                     "effectKey": "LightZ_HSL",
+                     "key": "Hue_Purple",
+                     "type": "VecItem",
+                     "noEffectValue": "0,0,0"
+                     },
+                     {
+                     "defaultValue": "0,0,0",
+                     "value": "0,0,0",
+                     "effectKey": "LightZ_HSL",
+                     "key": "Hue_Magenta",
+                     "type": "VecItem",
+                     "noEffectValue": "0,0,0"
+                     },
+                     {
+                     "defaultValue": "0,0,0,1",
+                     "value": "0,0,0,0",
+                     "effectKey": "LightZ_HSL",
+                     "key": "ShadowColor",
+                     "type": "VecItem",
+                     "noEffectValue": "0,0,0,1"
+                     },
+                     {
+                     "defaultValue": "0,0,0,1",
+                     "value": "0,0,0,0",
+                     "effectKey": "LightZ_HSL",
+                     "key": "MiddleColor",
+                     "type": "VecItem",
+                     "noEffectValue": "0,0,0,1"
+                     },
+                     {
+                     "defaultValue": "0,0,0,0",
+                     "value": "0,0,0,0",
+                     "effectKey": "LightZ_HSL",
+                     "key": "HighlightColor",
+                     "type": "VecItem",
+                     "noEffectValue": "0,0,0,0"
+                     }
+                     ],
+        "floatItems": [
+                       {
+                       "defaultValue": 0,
+                       "max": 100,
+                       "min": -100,
+                       "step": 1,
+                       "value": 0,
+                       "effectKey": "LightZ_HSL",
+                       "key": "Highlight",
+                       "type": "FloatItem",
+                       "noEffectValue": 0
+                       },
+                       {
+                       "defaultValue": 0,
+                       "max": 100,
+                       "min": -100,
+                       "step": 1,
+                       "value": 0,
+                       "effectKey": "LightZ_HSL",
+                       "key": "Shadow",
+                       "type": "FloatItem",
+                       "noEffectValue": 0
+                       }
+                       ]
+    }
+}

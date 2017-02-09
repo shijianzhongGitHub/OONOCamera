@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/duangios/!svn/ver/474/branches/duang2.0/duang/CameraResource/DCIntrospect-ARC
+END
+UIView+DCAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/duangios/!svn/ver/379/branches/duang2.0/duang/CameraResource/DCIntrospect-ARC/UIView+DCAdditions.h
+END
+DCTextView.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/duangios/!svn/ver/379/branches/duang2.0/duang/CameraResource/DCIntrospect-ARC/DCTextView.m
+END
+DCFrameView.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/duangios/!svn/ver/379/branches/duang2.0/duang/CameraResource/DCIntrospect-ARC/DCFrameView.h
+END
+UIView+DCAdditions.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/duangios/!svn/ver/379/branches/duang2.0/duang/CameraResource/DCIntrospect-ARC/UIView+DCAdditions.m
+END
+DCCrossHairView.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/duangios/!svn/ver/379/branches/duang2.0/duang/CameraResource/DCIntrospect-ARC/DCCrossHairView.h
+END
+DCFrameView.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/duangios/!svn/ver/474/branches/duang2.0/duang/CameraResource/DCIntrospect-ARC/DCFrameView.m
+END
+DCIntrospect.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/duangios/!svn/ver/379/branches/duang2.0/duang/CameraResource/DCIntrospect-ARC/DCIntrospect.h
+END
+DCStatusBarOverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/duangios/!svn/ver/379/branches/duang2.0/duang/CameraResource/DCIntrospect-ARC/DCStatusBarOverlay.h
+END
+DCIntrospectSettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/duangios/!svn/ver/379/branches/duang2.0/duang/CameraResource/DCIntrospect-ARC/DCIntrospectSettings.h
+END
+DCCrossHairView.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/duangios/!svn/ver/379/branches/duang2.0/duang/CameraResource/DCIntrospect-ARC/DCCrossHairView.m
+END
+DCIntrospect.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/duangios/!svn/ver/379/branches/duang2.0/duang/CameraResource/DCIntrospect-ARC/DCIntrospect.m
+END
+DCStatusBarOverlay.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/duangios/!svn/ver/474/branches/duang2.0/duang/CameraResource/DCIntrospect-ARC/DCStatusBarOverlay.m
+END
+DCTextView.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/duangios/!svn/ver/379/branches/duang2.0/duang/CameraResource/DCIntrospect-ARC/DCTextView.h
+END

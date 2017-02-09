@@ -1,0 +1,103 @@
+{
+    "items":
+    {
+        "floatItems": [
+                       {
+                       "defaultValue": 1,
+                       "max": 1.5,
+                       "min": 0.3,
+                       "step": 0.01,
+                       "value": 0,
+                       "effectKey": "TiltShiftCircle_BBlur",
+                       "key": "Strong",
+                       "type": "FloatItem",
+                       "noEffectValue": 1
+                       },
+                       {
+                       "defaultValue": 1,
+                       "max": 1.5,
+                       "min": 0.3,
+                       "step": 0.01,
+                       "value": 0,
+                       "effectKey": "TiltShiftLine_BBlur",
+                       "key": "Strong",
+                       "type": "FloatItem",
+                       "noEffectValue": 1
+                       }
+                       ],
+        "vecItems": [
+                     {
+                     "defaultValue": "0.5,0.5,0.15,0.35",
+                     "value": "0.5,0.5,0.15,0.35",
+                     "effectKey": "TiltShiftCircle_BBlur",
+                     "key": "tiltShiftCircleParam",
+                     "type": "VecItem",
+                     "noEffectValue": "0,0,0,0"
+                     },
+                     {
+                     "defaultValue": "0.5,0.5,0.15,0.05",
+                     "value": "0.5,0.5,0.15,0.05",
+                     "effectKey": "TiltShiftCircle_Single",
+                     "key": "tiltShiftCircleParam",
+                     "type": "VecItem",
+                     "noEffectValue": "0,0,0,0"
+                     },
+                     {
+                     "defaultValue": "0.5,0.5,0.15,0.35",
+                     "value": "0.5,0.5,0.15,0.35",
+                     "effectKey": "TiltShiftCircle_Mask",
+                     "key": "tiltShiftCircleParam",
+                     "type": "VecItem",
+                     "noEffectValue": "0,0,0,0"
+                     },
+                     {
+                     "defaultValue": "0.5,0.5",
+                     "value": "0.5,0.5",
+                     "effectKey": "TiltShiftLine_BBlur",
+                     "key": "tiltShiftLineParam1",
+                     "type": "VecItem",
+                     "noEffectValue": "0,0"
+                     },
+                     {
+                     "defaultValue": "0.5,0.5",
+                     "value": "0.5,0.5",
+                     "effectKey": "TiltShiftLine_Single",
+                     "key": "tiltShiftLineParam1",
+                     "type": "VecItem",
+                     "noEffectValue": "0,0"
+                     },
+                     {
+                     "defaultValue": "0.5,0.5",
+                     "value": "0.5,0.5",
+                     "effectKey": "TiltShiftLine_Mask",
+                     "key": "tiltShiftLineParam1",
+                     "type": "VecItem",
+                     "noEffectValue": "0,0"
+                     },
+                     {
+                     "defaultValue": "0.0,0.1,0.3",
+                     "value": "0.0,0.1,0.3",
+                     "effectKey": "TiltShiftLine_BBlur",
+                     "key": "tiltShiftLineParam2",
+                     "type": "VecItem",
+                     "noEffectValue": "0,0,0"
+                     },
+                     {
+                     "defaultValue": "0.0,0.1,0.05",
+                     "value": "0.0,0.1,0.05",
+                     "effectKey": "TiltShiftLine_Single",
+                     "key": "tiltShiftLineParam2",
+                     "type": "VecItem",
+                     "noEffectValue": "0,0,0"
+                     },
+                     {
+                     "defaultValue": "0.0,0.1,0.3",
+                     "value": "0.0,0.1,0.3",
+                     "effectKey": "TiltShiftLine_Mask",
+                     "key": "tiltShiftLineParam2",
+                     "type": "VecItem",
+                     "noEffectValue": "0,0,0"
+                     }
+                     ]
+    }
+}

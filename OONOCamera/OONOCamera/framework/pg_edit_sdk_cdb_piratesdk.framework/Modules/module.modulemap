@@ -1,0 +1,6 @@
+framework module pg_edit_sdk_cdb_piratesdk {
+  umbrella header "pg_edit_sdk_cdb_piratesdk.h"
+
+  export *
+  module * { export * }
+}

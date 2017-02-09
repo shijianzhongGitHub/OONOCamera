@@ -1,0 +1,6 @@
+framework module pg_edit_sdk_common {
+  umbrella header "pg_edit_sdk_common.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,62 @@
+//
+//  AppDelegate.m
+//  OONOCamera
+//
+//  Created by 史建忠 on 16/8/29.
+//  Copyright © 2016年 史建忠. All rights reserved.
+//
+
+#import "AppDelegate.h"
+#import "LoginViewController.h"
+#import <PhotoEditFramework/PhotoEditFramework.h>
+
+@interface AppDelegate ()
+
+@end
+
+@implementation AppDelegate
+
+
+- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+    
+    self.window = [[UIWindow alloc] init];
+    self.window.frame = [UIScreen mainScreen].bounds;
+    [self.window makeKeyAndVisible];
+    LoginViewController * loginVC = [[LoginViewController alloc] init];
+    UINavigationController * navVC = [[UINavigationController alloc] initWithRootViewController:loginVC];
+    self.window.rootViewController = navVC;
+    
+    
+    if(![pg_edit_sdk_controller sStart:@"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"])
+    {
+        
+    }
+    
+    
+    // Override point for customization after application launch.
+    return YES;
+}
+
+- (void)applicationWillResignActive:(UIApplication *)application {
+    // Sent when the application is about to move from active to inactive state. This can occur for certain types of temporary interruptions (such as an incoming phone call or SMS message) or when the user quits the application and it begins the transition to the background state.
+    // Use this method to pause ongoing tasks, disable timers, and throttle down OpenGL ES frame rates. Games should use this method to pause the game.
+}
+
+- (void)applicationDidEnterBackground:(UIApplication *)application {
+    // Use this method to release shared resources, save user data, invalidate timers, and store enough application state information to restore your application to its current state in case it is terminated later.
+    // If your application supports background execution, this method is called instead of applicationWillTerminate: when the user quits.
+}
+
+- (void)applicationWillEnterForeground:(UIApplication *)application {
+    // Called as part of the transition from the background to the inactive state; here you can undo many of the changes made on entering the background.
+}
+
+- (void)applicationDidBecomeActive:(UIApplication *)application {
+    // Restart any tasks that were paused (or not yet started) while the application was inactive. If the application was previously in the background, optionally refresh the user interface.
+}
+
+- (void)applicationWillTerminate:(UIApplication *)application {
+    // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
+}
+
+@end
